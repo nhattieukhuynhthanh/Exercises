@@ -10,4 +10,14 @@ public class Week3Task1 {
     public int Fibonaxi(int n) {
 
     }
+
+    /**
+     * print all prime numbers from 0 to $n use Sieve of Eratosthenes algorithm
+     * useful link https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+     * notice that print each number in a line
+     * @param n
+     */
+    public void SieveEratosthenes(int n) {
+
+    }
 }
