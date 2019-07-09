@@ -1,3 +1,5 @@
+import org.junit.Test;
+
 public class Week4Test {
     @Test
     public void testMax2Int1(){}
