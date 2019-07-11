@@ -2,12 +2,12 @@ package task1;
 
 public class Week3Task1 {
     // compute greatest common divisor of $a and $b
-    public int GCD(int a, int b) {
+    public int gcd(int a, int b) {
         // return;
     }
 
     // compute the fibonaxi of $n
-    public int Fibonaxi(int n) {
+    public int fibonaxi(int n) {
 
     }
 
@@ -17,7 +17,7 @@ public class Week3Task1 {
      * notice that print each number in a line
      * @param n
      */
-    public void SieveEratosthenes(int n) {
+    public void sieveEratosthenes(int n) {
 
     }
 }
