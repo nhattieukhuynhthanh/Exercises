@@ -18,7 +18,7 @@ public class Fraction {
     }
 
     // subtract
-    public Fraction subtract0(Fraction other) {
+    public Fraction subtract(Fraction other) {
         
     }
 
