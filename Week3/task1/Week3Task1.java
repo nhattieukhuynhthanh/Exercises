@@ -6,8 +6,8 @@ public class Week3Task1 {
         // return;
     }
 
-    // compute the fibonaxi of $n
-    public int fibonaxi(int n) {
+    // compute the fibonacci of $n
+    public int fibonacci(int n) {
 
     }
 
